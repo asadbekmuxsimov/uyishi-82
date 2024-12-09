@@ -1,0 +1,84 @@
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+nav{
+    background-color: #163A24;
+}
+.navv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.nav-div{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    
+}
+ul{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+button{
+    background-color: #198C36;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.hero{
+    background-color: #163A24;
+    color: white;
+    padding-top: 50px;
+}
+.asosiy{
+    display: flex;
+    justify-content: space-between;
+}
+.hero-div{
+    width: 491px;
+    padding-right: 50px;
+    padding-top: 100px;
+}
+.hero-div h1{
+    font-size: 48px;
+    margin-bottom: 30px;
+}
+.hero-div p{
+    font-size: 18px;
+    margin-right: 50px;
+}
+.put{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    align-items: center;
+}
+.put-text{
+    width: 393px;
+    /* margin-top: 150px; */
+}
+.put-text h2{
+    font-size: 48px;
+    padding-bottom: 25px;
+}
+.put-text p{
+    font-size: 18px;
+    margin-right: 50px;
+}
+.put1{
+    margin-top: 50px;
+}
