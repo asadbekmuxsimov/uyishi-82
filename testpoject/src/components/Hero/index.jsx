@@ -37,6 +37,7 @@ function Hero() {
                 </div>
             </main>
             <main>
+                
                 <div className="container">
                     <div className="put">
                         <div className='put-img'>
